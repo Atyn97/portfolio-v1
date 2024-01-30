@@ -69,7 +69,7 @@ const Footer = () => {
           </a>{" "}
           by{" "}
           <a
-            href=""
+            href="https://github.com/Atyn97/portfolio-v1"
             target="_blank"
             className="hover:text-teal-300 transition cursor-pointer font-bold"
           >
